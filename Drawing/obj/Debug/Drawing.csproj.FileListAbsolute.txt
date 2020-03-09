@@ -1,0 +1,12 @@
+C:\Users\bperu\source\repos\DrawingApp\DrawingApp\bin\Debug\DrawingApp.exe.config
+C:\Users\bperu\source\repos\DrawingApp\DrawingApp\bin\Debug\DrawingApp.exe
+C:\Users\bperu\source\repos\DrawingApp\DrawingApp\bin\Debug\DrawingApp.pdb
+C:\Users\bperu\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp.exe
+C:\Users\bperu\source\repos\DrawingApp\DrawingApp\obj\Debug\DrawingApp.pdb
+C:\Users\bperu\source\repos\DrawingApp\DrawingApp\obj\Debug\Drawing.csprojAssemblyReference.cache
+C:\Users\bperu\source\repos\DrawingApp\Drawing\bin\Debug\DrawingApp.exe.config
+C:\Users\bperu\source\repos\DrawingApp\Drawing\bin\Debug\DrawingApp.exe
+C:\Users\bperu\source\repos\DrawingApp\Drawing\bin\Debug\DrawingApp.pdb
+C:\Users\bperu\source\repos\DrawingApp\Drawing\obj\Debug\Drawing.csprojAssemblyReference.cache
+C:\Users\bperu\source\repos\DrawingApp\Drawing\obj\Debug\DrawingApp.exe
+C:\Users\bperu\source\repos\DrawingApp\Drawing\obj\Debug\DrawingApp.pdb
